@@ -11,7 +11,7 @@ interface NavLink {
 
 const navLinks: NavLink[] = [
 
-  { href: "https://prepx.co", label: "Home", Icon: User }
+  { href: "https://job-portal-theta-beige.vercel.app", label: "Home", Icon: User }
 ];
 
 export default function AppHeader(): JSX.Element {
